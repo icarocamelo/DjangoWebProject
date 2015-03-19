@@ -1,2 +1,2 @@
 # DjangoWebProject
-Django Web Project
+Django Web Project using Python Tools for Visual Studio 
